@@ -1,0 +1,32 @@
+
+/* impoted from "Google fonts" and copied here */
+  @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Pacifico&display=swap');
+
+.c1{
+    border: 1px solid rgba(0, 0, 0, 0);
+    height: 500px;
+}
+.c2{
+    border: 1px solid rgba(0, 0, 0, 0);
+    height: 500px;
+    background-image: url(./Images/vivek\ bootstrap.jpg);  
+    background-size: 100% 100%;
+}
+.contents{
+    text-align: justify;
+    margin-left: 20%;
+    margin-top: 30%;
+
+}
+#navbar-example2{
+    position: sticky;
+    top: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.tail{
+    background-color: rgb(180, 205, 214);
+}
